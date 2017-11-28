@@ -7,9 +7,9 @@
     <LangVersion>7.1</LangVersion>
     <PackageId>Howff.Navigation</PackageId>
     <PackageIconUrl>https://TODO</PackageIconUrl>
-    <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
-    <PackageProjectUrl>https://TODO</PackageProjectUrl>
-    <RepositoryUrl>https://TODO</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/CreunaAB/Howff.Navigation/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/CreunaAB/Howff.Navigation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CreunaAB/Howff.Navigation</RepositoryUrl>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Title>Howff Navigation</Title>
     <VersionPrefix>0.1.0</VersionPrefix>
