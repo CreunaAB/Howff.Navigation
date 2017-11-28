@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howff.Navigation", "Howff.Navigation\Howff.Navigation.csproj", "{600BBA53-DA9C-45EE-B285-299010A0B81F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Howff.Navigation", "Howff.Navigation\Howff.Navigation.csproj", "{600BBA53-DA9C-45EE-B285-299010A0B81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howff.Navigation.Tests", "Howff.Navigation.Tests\Howff.Navigation.Tests.csproj", "{2B265D90-19B4-4CB3-BE58-C2AA299CE462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{600BBA53-DA9C-45EE-B285-299010A0B81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{600BBA53-DA9C-45EE-B285-299010A0B81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{600BBA53-DA9C-45EE-B285-299010A0B81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B265D90-19B4-4CB3-BE58-C2AA299CE462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B265D90-19B4-4CB3-BE58-C2AA299CE462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B265D90-19B4-4CB3-BE58-C2AA299CE462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B265D90-19B4-4CB3-BE58-C2AA299CE462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
