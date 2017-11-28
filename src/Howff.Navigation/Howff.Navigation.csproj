@@ -4,6 +4,7 @@
     <AssemblyName>Howff.Navigation</AssemblyName>
     <Authors>Peter Korsbäck</Authors>
     <Description>Base library for tree based navigation</Description>
+    <LangVersion>7.1</LangVersion>
     <PackageId>Howff.Navigation</PackageId>
     <PackageIconUrl>https://TODO</PackageIconUrl>
     <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
