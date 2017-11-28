@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>Howff.Navigation</AssemblyName>
+    <Authors>Peter Korsbäck</Authors>
+    <Description>Base library for tree based navigation</Description>
+    <PackageId>Howff.Navigation</PackageId>
+    <PackageIconUrl>https://TODO</PackageIconUrl>
+    <PackageLicenseUrl>https://TODO</PackageLicenseUrl>
+    <PackageProjectUrl>https://TODO</PackageProjectUrl>
+    <RepositoryUrl>https://TODO</RepositoryUrl>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>Howff Navigation</Title>
+    <VersionPrefix>0.1.0</VersionPrefix>
+  </PropertyGroup>
+
+</Project>
